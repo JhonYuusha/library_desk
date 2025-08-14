@@ -1,1 +1,1 @@
-Sistema de Biblioteca Gerenciamento de livros, usuários e empréstimos. Funcionalidades: cadastro de livros, empréstimos, devoluções, histórico de usuários. Evolução possível: notificações de atraso, relatório em PDF, login de administrador. Q
+Sistema de Biblioteca Gerenciamento de livros, usuários e empréstimos. Funcionalidades: cadastro de livros, empréstimos, devoluções, histórico de usuários. Evolução possível: notificações de atraso, relatório em PDF, login de administrador.
